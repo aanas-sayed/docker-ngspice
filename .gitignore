@@ -1,1 +1,8 @@
+# ngspice simulation outputs
 test/output.log
+
+# macOS
+.DS_Store
+
+# Docker build artefacts
+*.tar
